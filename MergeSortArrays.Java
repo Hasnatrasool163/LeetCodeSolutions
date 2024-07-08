@@ -22,7 +22,7 @@ Example 2:
 
 import java.util.Arrays;
 
-class MergeSortArrays {
+public class MergeSortArrays {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         
          
