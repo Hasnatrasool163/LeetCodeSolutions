@@ -1,8 +1,8 @@
 # LeetCodeSolutions
 This repo contains my solutions of Leet Code problems .
 
-## Total Solved Problems (56)
+## Total Solved Problems (59)
 
-- Easy: 44
+- Easy: 47
 - Medium: 10
 - Hard: 2
